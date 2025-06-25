@@ -24,6 +24,6 @@ public class Dog extends Animal {
 
     //Dog's own method:
     void fetch() {
-        System.out.println("My Dog," + name +  "fetching...");
+        System.out.println("My Dog," + name +  " is fetching...");
     }
 }
